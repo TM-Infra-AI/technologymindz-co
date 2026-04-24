@@ -1,0 +1,94 @@
+[20-Apr-2020 15:13:17 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 118
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 123
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 146
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 185
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 186
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 187
+[20-Apr-2020 15:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 191
+[20-Apr-2020 15:13:52 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 118
+[20-Apr-2020 15:13:52 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 123
+[20-Apr-2020 15:13:52 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 146
+[20-Apr-2020 15:13:53 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 185
+[20-Apr-2020 15:13:53 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 186
+[20-Apr-2020 15:13:53 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 187
+[20-Apr-2020 15:13:53 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 191
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 118
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 123
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 146
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 185
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 186
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 187
+[20-Apr-2020 16:46:07 Asia/Kolkata] PHP Notice:  Undefined index: user_contact in /home/rzc2fmyoieym/public_html/hosting/playonlinegame.live/payment_page/pay.php on line 191
+[26-Apr-2020 02:31:21 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The amount must be atleast USD 0.50 in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Enti in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:32:33 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Currency is not supported in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:33:10 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Currency is not supported in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:34:32 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The amount must be atleast INR 1.00 in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Enti in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:35:02 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The amount must be atleast INR 1.00 in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Enti in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:35:22 Asia/Kolkata] PHP Notice:  Undefined index: display_amount in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/checkout/automatic.php on line 20
+[26-Apr-2020 02:35:22 Asia/Kolkata] PHP Notice:  Undefined index: display_currency in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/checkout/automatic.php on line 21
+[26-Apr-2020 02:35:33 Asia/Kolkata] PHP Notice:  Undefined index: display_amount in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/checkout/automatic.php on line 20
+[26-Apr-2020 02:35:33 Asia/Kolkata] PHP Notice:  Undefined index: display_currency in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/checkout/automatic.php on line 21
+[26-Apr-2020 02:38:36 Asia/Kolkata] PHP Notice:  Undefined variable: html in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/verify.php on line 47
+[26-Apr-2020 02:42:18 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Currency is not supported in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:42:29 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Currency is not supported in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:43:10 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Currency is not supported in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/razorpay-php/src/Request.php on line 120
+[26-Apr-2020 02:43:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://api.fixer.io/latest?symbols=INR&amp;base=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/pay.php on line 172
+[26-Apr-2020 02:44:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://api.fixer.io/latest?symbols=INR&amp;base=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/payment_page/pay.php on line 172
+[18-May-2020 15:00:11 Asia/Kolkata] PHP Notice:  Undefined index: amount in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/pay.php on line 204
+[18-May-2020 15:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The amount must be atleast INR 1.00 in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/r in /home/rzc2fmyoieym/public_html/hosting/meradigicard.com/panel/login/payment_page/razorpay-php/src/Request.php on line 120

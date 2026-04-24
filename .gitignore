@@ -1,0 +1,14 @@
+/*add vendor directory to .gitignore file*/
+# Ignore vendor directory
+vendor/
+# Ignore all files in vendor directory
+vendor/*
+# Ignore all files in vendor directory except for the .gitignore file
+!vendor/.gitignore
+# Ignore all files in vendor directory except for the .gitignore file
+!vendor/*
+# Ignore all files in vendor directory except for the .gitignore file
+!vendor/*
+
+# Ignore all files in htaccess directory
+.htaccess/

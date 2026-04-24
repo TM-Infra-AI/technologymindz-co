@@ -1,0 +1,652 @@
+[07-Mar-2025 00:55:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 00:56:01 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 00:58:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 00:58:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 02:25:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 03:43:27 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 05:26:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 11:32:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:03:06 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:03:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:03:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:03:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:04:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 17:14:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Mar-2025 20:59:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Mar-2025 05:10:06 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[09-Mar-2025 05:27:46 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[09-Mar-2025 09:48:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[10-Mar-2025 18:05:49 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[11-Mar-2025 12:56:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[11-Mar-2025 20:36:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[11-Mar-2025 20:36:56 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[11-Mar-2025 21:26:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[11-Mar-2025 22:57:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[12-Mar-2025 09:13:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[12-Mar-2025 22:02:09 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[12-Mar-2025 22:02:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[12-Mar-2025 22:02:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[12-Mar-2025 22:02:54 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/connect.php on line 6
+[12-Mar-2025 22:02:54 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/header.php on line 4
+[12-Mar-2025 22:02:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/manage_user.php:1) in /home/vanyaxln/public_html/admin/header.php on line 9
+[15-Mar-2025 19:19:49 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[15-Mar-2025 23:52:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[16-Mar-2025 20:03:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[16-Mar-2025 21:42:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[17-Mar-2025 15:07:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 15:07:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/vanyaxln/public_html/admin/get-user.php:2
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(2): mysqli_connect('localhost', 'root', '', 'customer_login_...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 2
+[17-Mar-2025 20:39:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:22 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:23 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:39:35 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:40:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:42:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:43:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:16
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(16): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 16
+[17-Mar-2025 20:45:00 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:18
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(18): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 18
+[17-Mar-2025 20:45:18 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:18
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(18): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 18
+[17-Mar-2025 20:46:15 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:17
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(17): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 17
+[17-Mar-2025 20:47:16 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home/vanyaxln/public_html/admin/get-user.php on line 17
+[17-Mar-2025 20:47:16 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, int given in /home/vanyaxln/public_html/admin/get-user.php:18
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/get-user.php(18): mysqli_query(1, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 18
+[17-Mar-2025 15:20:28 UTC] PHP Warning:  Undefined variable $connect in /home/vanyaxln/public_html/admin/users.php on line 5
+[17-Mar-2025 15:20:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vanyaxln/public_html/admin/users.php:5
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/users.php(5): mysqli_query(NULL, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 5
+[17-Mar-2025 15:22:18 UTC] PHP Warning:  Undefined variable $connect in /home/vanyaxln/public_html/admin/users.php on line 6
+[17-Mar-2025 15:22:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vanyaxln/public_html/admin/users.php:6
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/users.php(6): mysqli_query(NULL, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 6
+[17-Mar-2025 15:22:35 UTC] PHP Warning:  Undefined variable $connect in /home/vanyaxln/public_html/admin/users.php on line 6
+[17-Mar-2025 15:22:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vanyaxln/public_html/admin/users.php:6
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/users.php(6): mysqli_query(NULL, 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 6
+[17-Mar-2025 20:54:48 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/connect.php on line 6
+[17-Mar-2025 20:54:48 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/header.php on line 4
+[17-Mar-2025 20:54:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/create_account.php:1) in /home/vanyaxln/public_html/admin/header.php on line 9
+[17-Mar-2025 20:55:08 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/connect.php on line 6
+[17-Mar-2025 20:55:08 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/header.php on line 4
+[17-Mar-2025 20:55:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/create_account.php:1) in /home/vanyaxln/public_html/admin/header.php on line 9
+[17-Mar-2025 21:00:01 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/connect.php on line 6
+[17-Mar-2025 21:00:01 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vanyaxln/public_html/admin/header.php on line 4
+[17-Mar-2025 21:00:01 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/create_account.php:1) in /home/vanyaxln/public_html/admin/header.php on line 9
+[17-Mar-2025 15:32:03 UTC] PHP Warning:  Undefined variable $data in /home/vanyaxln/public_html/admin/get-user.php on line 26
+[17-Mar-2025 21:57:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[17-Mar-2025 21:57:23 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[18-Mar-2025 08:10:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[18-Mar-2025 09:31:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[20-Mar-2025 00:50:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[20-Mar-2025 03:18:07 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:40 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:42 UTC] PHP Warning:  require(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:18:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'helper/functions.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:19:22 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "helper/functions.php" in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:19:36 UTC] PHP Warning:  include(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:19:36 UTC] PHP Warning:  include(): Failed opening 'helper/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:19:37 UTC] PHP Warning:  include(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:19:37 UTC] PHP Warning:  include(): Failed opening 'helper/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:20:33 UTC] PHP Warning:  include(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:20:33 UTC] PHP Warning:  include(): Failed opening 'helper/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserRole() in /home/vanyaxln/public_html/admin/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 15
+[20-Mar-2025 03:22:07 UTC] PHP Warning:  include(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:22:07 UTC] PHP Warning:  include(): Failed opening 'helper/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserRole() in /home/vanyaxln/public_html/admin/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 15
+[20-Mar-2025 03:22:08 UTC] PHP Warning:  include(helper/functions.php): Failed to open stream: No such file or directory in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:22:08 UTC] PHP Warning:  include(): Failed opening 'helper/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/vanyaxln/public_html/admin/users.php on line 3
+[20-Mar-2025 03:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserRole() in /home/vanyaxln/public_html/admin/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/users.php on line 15
+[20-Mar-2025 03:25:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_role' in 'SELECT' in /home/vanyaxln/public_html/admin/helper/helper.php:11
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/helper/helper.php(11): mysqli_query(Object(mysqli), 'SELECT user_rol...')
+#1 /home/vanyaxln/public_html/admin/users.php(17): getUserRole('hadafds@gmail.c...')
+#2 {main}
+  thrown in /home/vanyaxln/public_html/admin/helper/helper.php on line 11
+[20-Mar-2025 03:25:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_role' in 'SELECT' in /home/vanyaxln/public_html/admin/helper/helper.php:11
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/helper/helper.php(11): mysqli_query(Object(mysqli), 'SELECT user_rol...')
+#1 /home/vanyaxln/public_html/admin/users.php(17): getUserRole('hadafds@gmail.c...')
+#2 {main}
+  thrown in /home/vanyaxln/public_html/admin/helper/helper.php on line 11
+[20-Mar-2025 03:35:14 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:35:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:37:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:37:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:39:59 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 12
+[20-Mar-2025 03:39:59 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:39:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/delete-user.php on line 13
+[20-Mar-2025 03:40:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 12
+[20-Mar-2025 03:42:15 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 12
+[20-Mar-2025 03:42:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/vanyaxln/public_html/admin/delete-user.php on line 12
+[20-Mar-2025 03:44:41 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[20-Mar-2025 04:47:57 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[20-Mar-2025 14:59:37 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[20-Mar-2025 11:16:24 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[20-Mar-2025 13:28:39 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[20-Mar-2025 18:58:56 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[20-Mar-2025 17:28:17 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[20-Mar-2025 22:59:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[21-Mar-2025 00:40:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[21-Mar-2025 21:22:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[22-Mar-2025 12:16:33 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[22-Mar-2025 18:45:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[22-Mar-2025 18:45:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[23-Mar-2025 20:14:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[25-Mar-2025 00:00:43 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[25-Mar-2025 06:33:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[26-Mar-2025 02:30:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[26-Mar-2025 08:29:56 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[26-Mar-2025 17:09:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[27-Mar-2025 00:22:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[27-Mar-2025 07:12:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[04-Apr-2025 18:52:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'aditya@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:78
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(78): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 78
+[04-Apr-2025 18:52:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'aditya1@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:78
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(78): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 78
+[04-Apr-2025 19:01:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'abc@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:78
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(78): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 78
+[04-Apr-2025 19:01:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'abc123@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:78
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(78): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 78
+[07-Apr-2025 18:55:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Apr-2025 18:55:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[07-Apr-2025 18:55:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 05:42:40 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 11:17:14 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 11:17:22 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 11:48:42 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 11:48:45 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 12:03:32 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 12:03:34 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 12:05:02 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 12:07:50 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 12:07:56 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 17:38:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 17:38:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:33:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:33:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:33:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:33:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:33:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:34:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:34:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:34:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:34:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:34:37 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:38:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:39:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:39:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:39:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 15:27:11 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/vanyaxln/public_html/admin/get-user.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 24
+[08-Apr-2025 15:27:33 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/vanyaxln/public_html/admin/get-user.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vanyaxln/public_html/admin/get-user.php on line 24
+[08-Apr-2025 16:20:23 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 16:29:02 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 18:58:11 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:10 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:44:48 UTC] PHP Warning:  Undefined array key "d__name" in /home/vanyaxln/public_html/admin/users.php on line 231
+[08-Apr-2025 19:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'test' in 'VALUES' in /home/vanyaxln/public_html/admin/create-user.php:57
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(57): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 57
+[08-Apr-2025 19:56:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'test' in 'VALUES' in /home/vanyaxln/public_html/admin/create-user.php:57
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(57): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 57
+[08-Apr-2025 19:56:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'test' in 'VALUES' in /home/vanyaxln/public_html/admin/create-user.php:57
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(57): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 57
+[08-Apr-2025 19:56:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'test' in 'VALUES' in /home/vanyaxln/public_html/admin/create-user.php:57
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(57): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 57
+[09-Apr-2025 01:30:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vanyaxln/public_html/admin/connect.php:27) in /home/vanyaxln/public_html/admin/header.php on line 9
+[08-Apr-2025 20:04:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'abc' in 'VALUES' in /home/vanyaxln/public_html/admin/create-user.php:57
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(57): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 57
+[09-Apr-2025 05:34:42 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 05:35:38 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 05:36:30 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 05:36:34 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 05:36:37 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 08:03:37 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 09:36:27 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 11:25:21 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 15:24:35 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 15:24:45 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 16:08:45 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 16:52:28 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 16:52:30 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 16:59:48 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 18:58:47 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 19:21:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'vivek@t-erp.co' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:71
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(71): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 71
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "user_name" in /home/vanyaxln/public_html/admin/create-user.php on line 14
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 14
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "first_name" in /home/vanyaxln/public_html/admin/create-user.php on line 15
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 15
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "last_name" in /home/vanyaxln/public_html/admin/create-user.php on line 16
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 16
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/create-user.php on line 17
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 17
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "country_code" in /home/vanyaxln/public_html/admin/create-user.php on line 18
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "phone_number" in /home/vanyaxln/public_html/admin/create-user.php on line 18
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "user_active" in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[09-Apr-2025 19:26:00 UTC] PHP Warning:  Undefined array key "select_service" in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[09-Apr-2025 19:26:00 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[09-Apr-2025 19:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'vivek@t-erp.co' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:66
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(66): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 66
+[09-Apr-2025 19:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'vivek@t-erp.co' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:66
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(66): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 66
+[09-Apr-2025 19:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'vivek@t-erp.co' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:66
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(66): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 66
+[09-Apr-2025 19:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'vivek@t-erp.co' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:66
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(66): mysqli_query(Object(mysqli), 'INSERT INTO dig...')
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 66
+[09-Apr-2025 19:29:06 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 19:30:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Test@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:75
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(75): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 75
+[09-Apr-2025 19:30:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Test@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:75
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(75): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 75
+[09-Apr-2025 19:31:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Test@gmail.com' for key 'user_email' in /home/vanyaxln/public_html/admin/create-user.php:75
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(75): mysqli_stmt_execute(Object(mysqli_stmt))
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 75
+[09-Apr-2025 19:33:30 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 19:34:59 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 19:41:40 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[09-Apr-2025 19:45:15 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 06:33:51 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 10:47:48 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 10:49:17 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 13:29:58 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 15:08:37 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 15:09:59 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 17:07:14 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 17:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[10-Apr-2025 17:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:08:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:08:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:08:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:08:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/vanyaxln/public_html/admin/create-user.php:97
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 97
+[10-Apr-2025 17:08:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[10-Apr-2025 17:08:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:08:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:08:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:08:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:08:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:08:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/vanyaxln/public_html/admin/create-user.php:97
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 97
+[10-Apr-2025 17:10:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[10-Apr-2025 17:10:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:06 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:06 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:10:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/vanyaxln/public_html/admin/create-user.php:97
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 97
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:10:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/vanyaxln/public_html/admin/create-user.php:97
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 97
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 19
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 20
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:30 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:10:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:10:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/vanyaxln/public_html/admin/create-user.php:97
+Stack trace:
+#0 /home/vanyaxln/public_html/admin/create-user.php(97): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vanyaxln/public_html/admin/create-user.php on line 97
+[10-Apr-2025 17:13:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:13:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:13:40 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:13:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:13:40 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:13:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:14:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:14:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:14:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:14:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:21 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:14:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:14:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:14:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:14:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:14:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:14:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:15:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:15:15 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:16:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:16:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:16:14 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:16:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:16:14 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:16:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:16:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:16:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:16:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:18:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 21
+[10-Apr-2025 17:18:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:18:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 22
+[10-Apr-2025 17:18:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:18:01 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vanyaxln/public_html/admin/create-user.php on line 23
+[10-Apr-2025 17:18:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vanyaxln/public_html/admin/create-user.php on line 24
+[10-Apr-2025 17:33:57 UTC] PHP Warning:  Undefined variable $_SEESION in /home/vanyaxln/public_html/admin/create-user.php on line 12
+[10-Apr-2025 17:34:33 UTC] PHP Warning:  Undefined variable $_SEESION in /home/vanyaxln/public_html/admin/create-user.php on line 12
+[10-Apr-2025 17:35:05 UTC] PHP Warning:  Undefined variable $_SEESION in /home/vanyaxln/public_html/admin/create-user.php on line 12
+[10-Apr-2025 17:35:54 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 17:38:10 UTC] PHP Warning:  Undefined variable $_SEESION in /home/vanyaxln/public_html/admin/create-user.php on line 12
+[10-Apr-2025 17:39:39 UTC] PHP Warning:  Undefined variable $_SEESION in /home/vanyaxln/public_html/admin/create-user.php on line 12
+[10-Apr-2025 18:01:25 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[10-Apr-2025 19:09:58 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[11-Apr-2025 16:16:37 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[11-Apr-2025 17:56:41 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[11-Apr-2025 18:51:13 UTC] PHP Warning:  Undefined array key "user_email" in /home/vanyaxln/public_html/admin/users.php on line 14
+[12-Apr-2025 18:02:22 UTC] PHP Warning:  Undefined array key "current_email" in /home/vanyaxln/public_html/admin/users.php on line 27
+[14-Apr-2025 17:51:17 UTC] PHP Warning:  Undefined array key "current_email" in /home/vanyaxln/public_html/admin/users.php on line 27
