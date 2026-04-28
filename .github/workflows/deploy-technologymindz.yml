@@ -27,7 +27,7 @@ jobs:
         run: |
           # 1. Runner me se extra files delete karein taaki wo cPanel pe na jayein
           shopt -s dotglob
-          rm -rf .git .github etc logs mail public_ftp ssl tmp access-logs etc.zip santaclauz_web.zip
+          rm -rf .git .github etc logs config.php db_config.php mail public_ftp ssl tmp access-logs etc.zip santaclauz_web.zip
           
           # 2. Files ko cPanel ke target folder me bhej dein (Port 22999 ke sath)
           scp -P 22999 -v -q -r * ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:~/technologymindz.co/
